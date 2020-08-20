@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let n1 = 0;
+    let n2 = 1;
+    let luu_gia_tri_cu = 0;
+    let text ="0, 1, ";
+    for (let i = 2; i < 20; i++) {
+        text += n1 + n2 + ","
+        luu_gia_tri_cu = n1;
+        n1 = n2;
+        n2 = luu_gia_tri_cu + n1;
+    }
+    document.write(text);
+</script>
+</body>
+</html>
