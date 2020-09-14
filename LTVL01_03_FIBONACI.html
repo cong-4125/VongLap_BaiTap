@@ -8,15 +8,15 @@
 <script>
     let n1 = 0;
     let n2 = 1;
-    let luu_gia_tri_cu = 0;
-    let text ="0, 1, ";
+    let tem = 0;
+    let fibonaci = "";
     for (let i = 2; i < 20; i++) {
-        text += n1 + n2 + ","
-        luu_gia_tri_cu = n1;
+        fibonaci += n1 + n2 + ",";
+        tem = n1;
         n1 = n2;
-        n2 = luu_gia_tri_cu + n1;
+        n2 = tem + n1
     }
-    document.write(text);
+    document.write(fibonaci)
 </script>
 </body>
 </html>

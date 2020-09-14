@@ -7,16 +7,16 @@
 <body>
 <script>
     let c = parseInt(prompt("enter number"));
-    while (c < 20 || c> 100) {
-        if (c < 20) {
-            alert ("Tăng nhiệt độ " );
-            c= prompt("enter number")
-        }
-        if (c> 100) {
-         alert("Giảm nhiệt độ");
-         c = prompt("")
+    if (c <20) {
+        alert("tang nhiet do");
+        c = prompt('enter number');
+    }else {
+        if (c > 100) {
+            alert("giam nhiet do");
+            c = prompt('enter number');
         }
     }
+    alert(c)
 </script>
 
 </body>

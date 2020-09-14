@@ -6,17 +6,20 @@
 </head>
 <body>
 <script>
-    let n1=0;
-    let n2=1;
-    let temp = 0;
-    let sum = 0;
-    for(let i=2;i<20;i++){
+    let n1 = 0;
+    let n2 = 1;
+    let tem = 0;
+    let sum = 1;
+    let fibocina = "0,1,"
+    for (let i = 2;i < 20;i++) {
         sum += n2;
-        temp = n1;
+        tem = n1;
         n1 = n2;
-        n2 = temp+n1;
+        n2 = tem + n1;
+
     }
-    document.write("Tổng 20 số fibonacci đầu tiên là: "+sum);
+    document.write("tong 20 so fibocina dau tien :" + sum);
+
 </script>
 </body>
 </html>

@@ -4,6 +4,13 @@
     <list default="true" id="9d000c00-812b-4f6f-8440-2519311f9543" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BaiTap02.SoNguyenTo.html" beforeDir="false" afterPath="$PROJECT_DIR$/BaiTap02.SoNguyenTo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LTVL01.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/LTVL01.2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LTVL01_03_FIBONACI.html" beforeDir="false" afterPath="$PROJECT_DIR$/LTVL01_03_FIBONACI.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LTVL_01_3_FIBOCINA%5=0.html" beforeDir="false" afterPath="$PROJECT_DIR$/LTVL_01_3_FIBOCINA%5=0.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LTVL_01_5_Tong20SoDauTien.html" beforeDir="false" afterPath="$PROJECT_DIR$/LTVL_01_5_Tong20SoDauTien.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LTVL_01_6_tong30SoChiaHetCho7.html" beforeDir="false" afterPath="$PROJECT_DIR$/LTVL_01_6_tong30SoChiaHetCho7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LTVL_01_7_FIZZBUZZ.html" beforeDir="false" afterPath="$PROJECT_DIR$/LTVL_01_7_FIZZBUZZ.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LTVL_02_1_InDayFibocina.html" beforeDir="false" afterPath="$PROJECT_DIR$/LTVL_02_1_InDayFibocina.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +38,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Bien_Kieudulieu_ToanTu/BaiTap_2.2.UngDungMayTinh.html" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
@@ -47,7 +54,8 @@
       <workItem from="1597671553667" duration="4737000" />
       <workItem from="1597799377061" duration="17186000" />
       <workItem from="1597891456380" duration="378000" />
-      <workItem from="1600049175088" duration="1108000" />
+      <workItem from="1600049175088" duration="2550000" />
+      <workItem from="1600058695092" duration="8733000" />
     </task>
     <servers />
   </component>
@@ -59,10 +67,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="480" y="153" key="#Web_Browsers/0.0.1366.728@0.0.1366.728" timestamp="1597801045669" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1600050075769">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1600058691148">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1600050075769" />
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1600058691148" />
     <state x="184" y="9" key="SettingsEditor" timestamp="1597805044748">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
