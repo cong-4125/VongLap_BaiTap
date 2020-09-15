@@ -6,12 +6,13 @@
 </head>
 <body>
 <script>
-    let n = parseInt(prompt("Nhập một số nguyên dương:"));
-    let text = 1;
-    for(let i=1;i<=n;i++) {
-            text *= i;
-        }
-        alert(n+"! = "+text);
+  let n = +prompt("enter a number");
+  let tem = 1;
+  for (let i =1;i <= n;i++) {
+     tem *= i;
+  }
+  document.write(n + "! =" + tem);
+
 </script>
 </body>
 </html>

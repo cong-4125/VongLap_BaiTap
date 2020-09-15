@@ -1,16 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="9d000c00-812b-4f6f-8440-2519311f9543" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/LTVL_04_VeHinhChuNhat.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaiTap02.SoNguyenTo.html" beforeDir="false" afterPath="$PROJECT_DIR$/BaiTap02.SoNguyenTo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LTVL01.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/LTVL01.2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LTVL01_03_FIBONACI.html" beforeDir="false" afterPath="$PROJECT_DIR$/LTVL01_03_FIBONACI.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LTVL_01_3_FIBOCINA%5=0.html" beforeDir="false" afterPath="$PROJECT_DIR$/LTVL_01_3_FIBOCINA%5=0.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LTVL_01_5_Tong20SoDauTien.html" beforeDir="false" afterPath="$PROJECT_DIR$/LTVL_01_5_Tong20SoDauTien.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LTVL_01_6_tong30SoChiaHetCho7.html" beforeDir="false" afterPath="$PROJECT_DIR$/LTVL_01_6_tong30SoChiaHetCho7.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LTVL_01_7_FIZZBUZZ.html" beforeDir="false" afterPath="$PROJECT_DIR$/LTVL_01_7_FIZZBUZZ.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LTVL_02_1_InDayFibocina.html" beforeDir="false" afterPath="$PROJECT_DIR$/LTVL_02_1_InDayFibocina.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LTVL_02_2_ZaiThua.html" beforeDir="false" afterPath="$PROJECT_DIR$/LTVL_02_2_ZaiThua.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LTVL_02_3_VeTamGiacVuong.html" beforeDir="false" afterPath="$PROJECT_DIR$/LTVL_02_3_VeTamGiacVuong.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,22 +68,37 @@
       <workItem from="1597799377061" duration="17186000" />
       <workItem from="1597891456380" duration="378000" />
       <workItem from="1600049175088" duration="2550000" />
-      <workItem from="1600058695092" duration="8733000" />
+      <workItem from="1600058695092" duration="12186000" />
+      <workItem from="1600078036877" duration="916000" />
+      <workItem from="1600132041296" duration="4839000" />
+      <workItem from="1600158548151" duration="668000" />
+      <workItem from="1600163171088" duration="727000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="480" y="153" key="#Web_Browsers" timestamp="1597801045669">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="480" y="153" key="#Web_Browsers/0.0.1366.728@0.0.1366.728" timestamp="1597801045669" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1600058691148">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1600159283631">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1600058691148" />
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1600159283631" />
     <state x="184" y="9" key="SettingsEditor" timestamp="1597805044748">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
